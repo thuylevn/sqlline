@@ -99,7 +99,7 @@ limitations under the License.
     <jcip-annotations.version>1.0-1</jcip-annotations.version>
     <jetty.version>9.2.19.v20160908</jetty.version>
     <jmh.version>1.12</jmh.version>
-    <jsoup.version>1.10.2</jsoup.version>
+    <jsoup.version>1.15.3</jsoup.version>
     <junit.version>4.12</junit.version>
     <maven-checkstyle-plugin.version>3.0.0</maven-checkstyle-plugin.version>
     <maven-dependency-plugin.version>2.10</maven-dependency-plugin.version>
